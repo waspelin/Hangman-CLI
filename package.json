@@ -1,0 +1,23 @@
+{
+  "name": "hangman-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waspelin/Hangman-CLI.git"
+  },
+  "author": "Will Aspelin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waspelin/Hangman-CLI/issues"
+  },
+  "homepage": "https://github.com/waspelin/Hangman-CLI#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "require": "^2.4.20"
+  }
+}
